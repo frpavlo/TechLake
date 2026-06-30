@@ -1,52 +1,54 @@
+/* Default */
+
 a {
     text-decoration: none;
     color: black;
 }
-.logo {
-    font-size: 64px;
-}
-.logo span {
-    color: #E2B622;
-}
+
+/* Header and navbar */
+
 .header-top {
-    padding: 10px;
     background-color: #E2B622;
-}
-.header-top-link {
-    color: white;
     font-size: 32px;
 }
-ul {
-    list-style: none;
+
+.logo-span {
+    color: #E2B622;
 }
-.header-bottom {
-    display: flex;
-    justify-content: space-between;
-    padding: 5px 20px;
+.btn-search {
+    color: #E2B622;
+    border-color: #E2B622;
 }
-.header-bottom-container {
-    display: flex;
-    gap: 70px;
-    align-items: center;
+.btn-search:hover {
+    border-color: #E2B622 !important;
+    background-color: #E2B622 !important; 
 }
-.header-list {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-.header-bottom-link {
-    font-size: 20px;
-}
+
+/* Hero section */
+
 .hero {
-    background-image: linear-gradient(to right,#E2B622,white);
+    background-image: linear-gradient(to right, #E2B622, white);
 }
-.hero .container {
-    display: flex;
-    gap: 5px;
-    padding: 80px 0;
-    align-items: center;
-    
-}
-.btn-primary {
+
+.btn-hero {
     background-color: #E2B622;
+    border: #E2B622;
+    transition: all 1s;
+    padding: 10px 20px ;
+}
+
+.btn-hero:hover {
+    padding: 5px 60px;
+    background-color: #ca9c02;
+}
+
+/* Products block */
+
+.btn-buy {
+    background-color: #E2B622;
+    transition: all 1s;
+}
+.btn-buy:hover {
+    transform: skew(10deg, 10deg);
+    background-color: #ca9c02;
 }

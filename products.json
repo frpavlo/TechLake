@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "apple phone",
+        "image": "Image.jpg",
+        "price": 1000.00
+    },
+    {
+        "id": 2,
+        "name": "apple phone",
+        "image": "Image.jpg",
+        "price": 1000.00
+    },
+    {
+        "id": 3,
+        "name": "apple phone",
+        "image": "Image.jpg",
+        "price": 1000.00
+    },
+    {
+        "id": 4,
+        "name": "apple phone",
+        "image": "Image.jpg",
+        "price": 1000.00
+    }
+]
