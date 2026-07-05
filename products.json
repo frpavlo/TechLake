@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "name": "apple phone",
-        "image": "Image.jpg",
+        "name": "Iphone X pictures 5",
+        "image": "apple-iphone-x-pictures-5.png",
         "price": 1000.00
     },
     {
         "id": 2,
-        "name": "apple phone",
-        "image": "Image.jpg",
+        "name": "Iphone 17 Pro Max",
+        "image": "iphone_17.jpg",
         "price": 1000.00
     },
     {
         "id": 3,
-        "name": "apple phone",
-        "image": "Image.jpg",
+        "name": "Iphone 16",
+        "image": "iphone-16.webp",
         "price": 1000.00
     },
     {
         "id": 4,
-        "name": "apple phone",
-        "image": "Image.jpg",
+        "name": "Samsung Galaxy S26 Ultra",
+        "image": "S26-ultra.webp",
         "price": 1000.00
     }
 ]
